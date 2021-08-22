@@ -56,3 +56,127 @@ Application Programming Interface (APIs) can allow business firms to establish a
 
 The table below displays the tools used by Pinch financial to in their daily functions, which belongs from all three above mentioned technologies
 
+| Google/ Google Universal   Analytics |            Analyzes performance, tracks   website activities/visitors count and data collection.            |   |   |   |
+|:------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|---|---|---|
+| Facebook Pixel                       | Tracks visitors’ activity on website and thus improves efficiency.                                          |   |   |   |
+| Viewport Meta                        | A tool to display the layout of a mobile browse                                                             |   |   |   |
+| Cloudflare                           | For content delivery network, web security                                                                  |   |   |   |
+| Various google APIs                  | Cloud business management platform.                                                                         |   |   |   |
+| Facebook SDK                         | Monitors people’s activity on their app                                                                     |   |   |   |
+| Facebook SDK for website             | Provides vital information on client’s functionality, provides API access                                   |   |   |   |
+| Webpack                              | APIs, static module bundler for java script libraries                                                       |   |   |   |
+| Core-Js                              | Standard modular library for java script from Git hub                                                       |   |   |   |
+| Es6 promise                          | APIs and java script promises                                                                               |   |   |   |
+| React                                | Open-source java script library for mobile apps                                                             |   |   |   |
+| Facebook custom audience             | For marketing and advertising                                                                               |   |   |   |
+| Office 365 mail                      | Business email hosting                                                                                      |   |   |   |
+| Microsoft Exchange Online            | Email hosting provider                                                                                      |   |   |   |
+| Cloudflare (PaaS)                    | Physical data centre, servers/networking/storage, Operating systems, Database manage and development tools. |   |   |   |
+| Cloudflare DNS                       | Domain Name System, connects web browsers with websites.                                                    |   |   |   |
+| SSL certificates by default          | Provides digital certificate to establish website’s identity.                                               |   |   |   |
+| SSL Certificates by Cloudflare       | Transmits http to https website                                                                             |   |   |   |
+| Ipv6                                 | Identifies device’s IP addresses across the internet.                                                       |   |   |   |
+
+
+## Area Of Dominance
+Out of all the financial sectors, Pinch Financial belongs to the mortgage and real estate industry, automating the mortgage application process. With mortgage and real estate being directly related, it is highly advantageous to have two separate branches under one tree. With digitalization on its peak, mortgage applications have increasingly improved with more and more people embracing it. The pandemic and social distancing dilemmas have completely revolutionised the use of technology with an extra ordinary raise in number of people implementing it. The following trends were noted according to the ICE Mortgage Technology survey,
+
+-	A staggering number of 99% was recorded which represented majority of lenders believe that technology improves the mortgage application process, in which,
+   o	74% believed in simplifying the process, 70% accepted to reduced closing times, and 64% believed data entry was minimized to an extent.
+-	Increased popularity of lenders offering digital solutions by 58% (50% in 2018), whereas with compared to lenders offering a mobile app was recorded slightly below at 47% (40% in 2018) as a factor to make lending decision
+-	An inflated number of homeowners who used online application was recorded at 55%, reduced time to close a deal was cited 53%, which eventually resulted in less in-person engagement at 49% (37% in 2018) 
+-	Out of all the lenders, 60.4% mentioned that more than half of the loans they processed were completed online, while 38% noted more than 80% use of digital mortgage process.
+-	61% of borrowers were cited using mobile application tools to submit their online applications.
+
+Mortgage is a huge industry and with ample opportunities, a fierce competitor market is inevitable. Below table lists top competitors of Pinch Financial,
+
+| Institution Name         | Website                              |
+|--------------------------|--------------------------------------|
+| Nest Ready               |           www.nestready.ai           |
+| Amber Financial Services |      https://amberfinancial.com/     |
+|         Home wise        |      https://thinkhomewise.com/      |
+|         Delta 360        |           www.delta360.com           |
+|    Artsyl Technologies   |      https://www.artsyltech.com/     |
+|   Canadian Mortgage App  |  https://www.canadianmortgageapp.com |
+|  Capital Lending Centre  | https://www.capitallendingcentre.com |
+|      Blink Mortgage      |        http://blinkmortgage.ca       |
+|        Ratehub.ca        |            www.ratehub.ca            |
+|      CompareMyRates      |     https://www.CompareMyRates.ca    |
+|          Clik.ai         |            https://clik.ai           |
+|        CreditXpert       |      http://www.creditxpert.com/     |
+|   Certn Holdings, Inc.   |          http://www.certn.co         |
+|        Data Nerds        |         http://datanerds.com         |
+|       LowerstRates       |          www.lowestrates.ca          |
+
+Out of all the fintech companies of mortgage domain in Canada, 65% of them are established in Ontario.
+
+## Conclusion
+Based on the research above, the business impacts of pinch financial has been recorded phenomenal. It had just commenced in 2017, it had already attracted one of largest non-bank originator, M3 tech which successfully resulted in complete acquisition of Pinch. Given the fact, gaining such popularity within a period of 3 to 4 years is quite an outstanding achievement. With this merger they have already advanced their game from being business to consumer service provider to becoming business to business service provider.
+
+Every single business function on a particular model of success and so does the mortgage industry. Below are some Key Point Indicators, which are used by various players of fintech mortgage industry,
+
+![Picture2](https://user-images.githubusercontent.com/86626839/130340633-67d8af4a-3f23-4fdf-8299-6725e0778ad4.png)
+
+Based on the above core metrics, Pinch financial is progressing fairly okay with compared to its counter parts. Although, one must consider that it has only been around for a while and the size of the organization is relatively smaller than compared to other big techs. Now being acquitted with M3 tech, the future surely looks very promising for Pinch financial, where they aim to make the process in such a way, that by the time the application reaches the mortgage agent, all the documents would already be collected and verified from the borrowers, simply waiting for approval.
+
+## Recommendations
+Buying a house has always been the most difficult task in life for most of the people. Many considers it as a most important asset to have, while many think of it as paying mortgage instead of rent, but what matters the most is the availability of fund. Amount and source of down payment being made plays a major role in determining an individual’s eligibility. Majority of potential buyers tends to manage their down payments by either borrowing money from friends and family or by using their inheritance. By offering International and domestic remittance services, Pinch financial would advance way higher than most of its competitors as none of them provides such services and it will also land a big blow to the mighty banks denting their daily Foreign Exchange activities. 
+
+With the increasing numbers of immigrants migrating to Canada, more and more demands for housing mortgages are created. People coming from various parts of the world are actively utilizing their family inheritance to purchase real estate properties. Parents and families are actively making financial contributions in order to support for real estate purchase. By commencing remittance operations, it will open doors of success for Pinch financial into a completely new sector. By providing these services, it would be much easier for lenders to determine the source of down payment directly through open banking, instead of pointing out certain transactions and asking clarification. It also gives Pinch financial to partner with international banks due to international remittance, which will eventually help them to become a multinational company.
+
+In order to execute remittance operations, Pinch almost have all the technologies on board but with the addition of blockchain, it will enable Pinch to perform transactions flawlessly.
+
+-	Blockchain significantly reduces the transfer costs between two parties by removing all the unnecessary intermediaries.
+-	By creating mobile wallets using blockchain technology would allow two parties to internationally exchange money within very short period of time.
+-	Because of its Distributed Ledger Technology, Blockchain is considered one of the safest mediums to exchange transfers internationally.
+-	To keep up with FINTRAC’s (regulatory body for Money Service Business) regulations, Robotic automation is equally necessary to automate the daily reporting of transactions conducted
+-	Various APIs, like Digital API for KYC services, AML API to combat Anti-Money Laundering and Terrorist Funding and open banking API to verify banking information are crucial to money remittance process.
+-	Machine Learning equally weighs in at the fundamentals of remittances to gather data and rates forecasting.
+
+In a press release published in 2019, countries with moderate income sources traded $529 billion during that year, 9.6% up than 2017. The remittance industry’s economy is expected to cross the trillion-dollar mark in 2022 and so on, it will keep rising. Again, people are migrating and settling in Canada from all the different parts of the world. There are students who requests fees needs remittance, there are millennials expecting family maintenance and there are parents who simply wants to gift. With Mortgage, Real Estate and Remittance under same roof. This would be a perfect opportunity for Pinch to explore a range of new products to add I their inventory.
+
+
+
+
+### JUST FOR FUN
+
+Cryptocurrency has largely become popular in recent times, mainly due to high volatility in its trends. Taking the advantage of this boom, Pinch financial can introduce its own cryptocurrency like pinchcoin to take their organisation at new heights. This crypto, while being at its lowest worth can be used as giveaways to whoever consume their products. This will result in increase popularity of the currency along with rising number of applicants approaching Pinch just to score some free crypto. After reaching a certain level, more arrangements like paying mortgage installments in crypto can also be amended.
+
+## References.
+
+-	https://dmz.ryerson.ca/the-review/ashu-and-andrew-met-in-dmz-first-sandbox-cohort-in-2018-now-theyre-revolutionizing-the-mortgage-industry/?fbclid=IwAR1mViH0zQeMr_Kd6x_6k0P_C_fSzgpOB43Rv-Z4smLil8FlbTlef5pdLkg
+-	https://financialpost.com/technology/startups-shift-focus-to-survival-as-covid-19-uncertainty-looms
+-	https://www.canadianmortgagetrends.com/2021/06/qa-with-m3-group-on-its-acquisition-of-pinch-financial/
+-	www.stancan.gc.ca
+-	https://www.bnnbloomberg.ca/video/integrating-online-banking-with-mortgage-application-lessens-potential-risks-pinch-financial~1883383
+-	https://www.facebook.com/PinchFinancial
+-	https://www.mpamag.com/ca/specialty/broker-networks/pinch-financial-ceo-talks-future-under-m3/287494
+-	https://www.m3-tech.ca/aboutus
+-	https://craft.co/pinch-financial/competitors
+-	https://www.crunchbase.com/organization/pinch-financial/company_financials
+-	https://www.zoominfo.com/c/pinch-financial-inc/407428409
+-	https://builtwith.com/detailed/pinchfinancial.com#_dd
+-	https://craft.co/pinch-financial
+-	https://tracxn.com/d/companies/pinchfinancial.com
+-	https://pitchbook.com/profiles/company/267051-07#o
+-	https://publications.gc.ca/collections/collection_2020/schl-cmhc/nh18-33/NH18-33-32-2020-eng.pdf
+-	https://www.opteamix.com/mortgage-industry-and-robotic-process-automation-a-match-made-in-the-automation-heaven/
+
+-	https://developers.facebook.com/docs/web/
+
+-	https://webpack.js.org/concepts/
+
+-	https://github.com/stefanpenner/es6-promise
+
+-	https://www.cloudflare.com/learning/serverless/glossary/platform-as-a-service-paas/
+
+-	https://www.cloudflare.com/learning/dns/what-is-dns/
+
+-	https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/
+
+-	https://www.networkworld.com/article/3254575/what-is-ipv6-and-why-aren-t-we-there-yet.html
+
+-	https://www.forbes.com/sites/brendarichardson/2021/05/13/how-digital-technology-changed-the-face-of-the-mortgage-industry/
+
+-	https://blog.nestready.ai/mortgage-loan-leads-key-performance-indicators
+
