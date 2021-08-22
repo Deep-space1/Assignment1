@@ -56,26 +56,24 @@ Application Programming Interface (APIs) can allow business firms to establish a
 
 The table below displays the tools used by Pinch financial to in their daily functions, which belongs from all three above mentioned technologies
 
-| Google/ Google Universal   Analytics |            Analyzes performance, tracks   website activities/visitors count and data collection.            |   |   |   |
-|:------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|---|---|---|
-| Facebook Pixel                       | Tracks visitors’ activity on website and thus improves efficiency.                                          |   |   |   |
-| Viewport Meta                        | A tool to display the layout of a mobile browse                                                             |   |   |   |
-| Cloudflare                           | For content delivery network, web security                                                                  |   |   |   |
-| Various google APIs                  | Cloud business management platform.                                                                         |   |   |   |
-| Facebook SDK                         | Monitors people’s activity on their app                                                                     |   |   |   |
-| Facebook SDK for website             | Provides vital information on client’s functionality, provides API access                                   |   |   |   |
-| Webpack                              | APIs, static module bundler for java script libraries                                                       |   |   |   |
-| Core-Js                              | Standard modular library for java script from Git hub                                                       |   |   |   |
-| Es6 promise                          | APIs and java script promises                                                                               |   |   |   |
-| React                                | Open-source java script library for mobile apps                                                             |   |   |   |
-| Facebook custom audience             | For marketing and advertising                                                                               |   |   |   |
-| Office 365 mail                      | Business email hosting                                                                                      |   |   |   |
-| Microsoft Exchange Online            | Email hosting provider                                                                                      |   |   |   |
-| Cloudflare (PaaS)                    | Physical data centre, servers/networking/storage, Operating systems, Database manage and development tools. |   |   |   |
-| Cloudflare DNS                       | Domain Name System, connects web browsers with websites.                                                    |   |   |   |
-| SSL certificates by default          | Provides digital certificate to establish website’s identity.                                               |   |   |   |
-| SSL Certificates by Cloudflare       | Transmits http to https website                                                                             |   |   |   |
-| Ipv6                                 | Identifies device’s IP addresses across the internet.                                                       |   |   |   |
+
+|     Institution Name     |               Website                |
+|--------------------------|--------------------------------------|
+| Nest Ready               |           www.nestready.ai           |
+| Amber Financial Services |      https://amberfinancial.com/     |
+|         Home wise        |      https://thinkhomewise.com/      |
+|         Delta 360        |           www.delta360.com           |
+|    Artsyl Technologies   |      https://www.artsyltech.com/     |
+|   Canadian Mortgage App  |  https://www.canadianmortgageapp.com |
+|  Capital Lending Centre  | https://www.capitallendingcentre.com |
+|      Blink Mortgage      |        http://blinkmortgage.ca       |
+|        Ratehub.ca        |            www.ratehub.ca            |
+|      CompareMyRates      |     https://www.CompareMyRates.ca    |
+|          Clik.ai         |            https://clik.ai           |
+|        CreditXpert       |      http://www.creditxpert.com/     |
+|   Certn Holdings, Inc.   |          http://www.certn.co         |
+|        Data Nerds        |         http://datanerds.com         |
+|       LowerstRates       |          www.lowestrates.ca          |
 
 
 ## Area Of Dominance
